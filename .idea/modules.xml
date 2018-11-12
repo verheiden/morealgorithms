@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FloatingLabels.iml" filepath="$PROJECT_DIR$/FloatingLabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JungRedBlack/JungRedBlack.iml" filepath="$PROJECT_DIR$/JungRedBlack/JungRedBlack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkInsertionSort/LinkInsertionSort.iml" filepath="$PROJECT_DIR$/LinkInsertionSort/LinkInsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrangeHorse/arrangeHorse.iml" filepath="$PROJECT_DIR$/arrangeHorse/arrangeHorse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorFul/colorFul.iml" filepath="$PROJECT_DIR$/colorFul/colorFul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/combinatory/combinatory.iml" filepath="$PROJECT_DIR$/combinatory/combinatory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decodingWays/decodingWays.iml" filepath="$PROJECT_DIR$/decodingWays/decodingWays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formatfloating/formatfloating.iml" filepath="$PROJECT_DIR$/formatfloating/formatfloating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heights/heights.iml" filepath="$PROJECT_DIR$/heights/heights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ispower/ispower.iml" filepath="$PROJECT_DIR$/ispower/ispower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kthpermutation/kthpermutation.iml" filepath="$PROJECT_DIR$/kthpermutation/kthpermutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkMergeSort/linkMergeSort.iml" filepath="$PROJECT_DIR$/linkMergeSort/linkMergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxPathSum/maxPathSum.iml" filepath="$PROJECT_DIR$/maxPathSum/maxPathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSub/maxSub.iml" filepath="$PROJECT_DIR$/maxSub/maxSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minDungeon/minDungeon.iml" filepath="$PROJECT_DIR$/minDungeon/minDungeon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minMaxThree/minMaxThree.iml" filepath="$PROJECT_DIR$/minMaxThree/minMaxThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minPalinCut/minPalinCut.iml" filepath="$PROJECT_DIR$/minPalinCut/minPalinCut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myredblack/myredblack.iml" filepath="$PROJECT_DIR$/myredblack/myredblack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numSubSequence/numSubSequence.iml" filepath="$PROJECT_DIR$/numSubSequence/numSubSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pages/pages.iml" filepath="$PROJECT_DIR$/pages/pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redblacktree/redblacktree.iml" filepath="$PROJECT_DIR$/redblacktree/redblacktree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repeatedNumber/repeatedNumber.iml" filepath="$PROJECT_DIR$/repeatedNumber/repeatedNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseBits/reverseBits.iml" filepath="$PROJECT_DIR$/reverseBits/reverseBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseDigits/reverseDigits.iml" filepath="$PROJECT_DIR$/reverseDigits/reverseDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scramble/scramble.iml" filepath="$PROJECT_DIR$/scramble/scramble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subset/subset.iml" filepath="$PROJECT_DIR$/subset/subset.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JungRedBlack" />
+            <option value="$PROJECT_DIR$/LinkInsertionSort" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arrangeHorse" />
+            <option value="$PROJECT_DIR$/colorFul" />
+            <option value="$PROJECT_DIR$/combinatory" />
+            <option value="$PROJECT_DIR$/decodingWays" />
+            <option value="$PROJECT_DIR$/formatfloating" />
+            <option value="$PROJECT_DIR$/heights" />
+            <option value="$PROJECT_DIR$/ispower" />
+            <option value="$PROJECT_DIR$/kthpermutation" />
+            <option value="$PROJECT_DIR$/linkMergeSort" />
+            <option value="$PROJECT_DIR$/maxPathSum" />
+            <option value="$PROJECT_DIR$/maxSub" />
+            <option value="$PROJECT_DIR$/minDungeon" />
+            <option value="$PROJECT_DIR$/minMaxThree" />
+            <option value="$PROJECT_DIR$/minPalinCut" />
+            <option value="$PROJECT_DIR$/myredblack" />
+            <option value="$PROJECT_DIR$/numSubSequence" />
+            <option value="$PROJECT_DIR$/pages" />
+            <option value="$PROJECT_DIR$/redblacktree" />
+            <option value="$PROJECT_DIR$/repeatedNumber" />
+            <option value="$PROJECT_DIR$/reverseBits" />
+            <option value="$PROJECT_DIR$/reverseDigits" />
+            <option value="$PROJECT_DIR$/scramble" />
+            <option value="$PROJECT_DIR$/subset" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
